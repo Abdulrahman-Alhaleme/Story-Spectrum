@@ -1,1 +1,1 @@
-# Story-Spectrum
+# Online Manga/Manhwa E-commerce System
